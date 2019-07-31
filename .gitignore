@@ -1,0 +1,5 @@
+.venv/
+*.pyc
+products.csv/
+*.zip
+*.csv
